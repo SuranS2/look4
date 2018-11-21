@@ -15,9 +15,7 @@ second_presentation_htm_files/117.jpg
 second_presentation_htm_files/445.png
 second_presentation_htm_files/776.png
 second_presentation_htm_files/777.jpg
-second_presentation_htm_files/778.png
 second_presentation_htm_files/779.jpg
-second_presentation_htm_files/780.png
 second_presentation_htm_files/781.jpg
 second_presentation_htm_files/782.png
 second_presentation_htm_files/783.png
@@ -37,9 +35,7 @@ second_presentation_htm_files/802.png
 second_presentation_htm_files/808.png
 second_presentation_htm_files/816.png
 second_presentation_htm_files/817.jpg
-second_presentation_htm_files/818.png
 second_presentation_htm_files/819.jpg
-second_presentation_htm_files/820.png
 second_presentation_htm_files/821.jpg
 second_presentation_htm_files/822.png
 second_presentation_htm_files/823.png
@@ -137,6 +133,10 @@ second_presentation_htm_files/978.png
 second_presentation_htm_files/980.png
 second_presentation_htm_files/981.png
 second_presentation_htm_files/1003.jpg
+second_presentation_htm_files/1006.png
+second_presentation_htm_files/1007.png
+second_presentation_htm_files/1017.png
+second_presentation_htm_files/1018.png
 second_presentation_htm_files/XaraWDGeneratedHTMLfont1.woff
 second_presentation_htm_files/XaraWDEmbeddedHTMLfont1.eot
 second_presentation_htm_files/XaraWDGeneratedHTMLfont2.woff
